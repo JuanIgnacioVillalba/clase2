@@ -1,0 +1,21 @@
+.titulo{
+    background-color: black;
+}
+body {
+    background-color: #963928;
+  }
+.divhead{
+    background-color:rgba(145, 11, 11, 0.205);
+}  
+p {
+
+    font-family: Arial, Helvetica, sans-serif;
+}
+.tablah{
+    border-color: darkred;
+    background-color: rgba(68, 68, 68, 0.212);
+}      
+.tablai{
+    background-color: #963928;
+}
+    
