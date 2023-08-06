@@ -3,13 +3,14 @@
 }
 body {
     background-color: #963928;
+    font-family: Arial, Helvetica, sans-serif;
   }
 .divhead{
     background-color:rgba(145, 11, 11, 0.205);
 }  
 p {
-
     font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
 }
 .tablah{
     border-color: darkred;
@@ -17,5 +18,22 @@ p {
 }      
 .tablai{
     background-color: #963928;
+    margin-right: 0%;
 }
-    
+.copy{
+    font-size: 14px;
+}
+aside{
+    width: 25%;
+    height: 100%;
+    float: right;
+    }
+.footer{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.n{
+    font:weight;
+}
+.m70{
+    width: 70%;
+}
